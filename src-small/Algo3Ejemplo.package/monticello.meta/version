@@ -1,1 +1,1 @@
-(name 'Algo3Ejemplo-elvis.1' message 'un commit' id '7525473b-abf6-413e-9b2f-acc10ee1162e' date '22 July 2019' time '6:44:59.295312 pm' author 'elvis' ancestors () stepChildren ())
+(name 'Algo3Ejemplo-elvis.2' message 'corrigiendo baseline algo3' id 'a8a7cca7-beff-4723-8a03-37a62fe5f5d1' date '22 July 2019' time '8:07:22.750835 pm' author 'elvis' ancestors ((name 'Algo3Ejemplo-elvis.1' message 'un commit' id '7525473b-abf6-413e-9b2f-acc10ee1162e' date '22 July 2019' time '6:44:59.295312 pm' author 'elvis' ancestors () stepChildren ())) stepChildren ())
