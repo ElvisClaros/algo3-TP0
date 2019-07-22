@@ -1,0 +1,13 @@
+SmalltalkCISpec {
+	#loading : [
+		SCIMetacelloLoadSpec {
+			#baseline : 'Algo3Ejemplo',
+			#directory : 'src-small',
+			#platforms : [ #pharo ]
+		}
+	],
+	#testing : {
+		#packages : [ 'Algo3Ejemplo', 'Algo3EjemploTest' ]
+	}
+
+}

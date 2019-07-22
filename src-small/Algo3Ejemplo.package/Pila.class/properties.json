@@ -1,0 +1,14 @@
+{
+	"category" : "Algo3Ejemplo",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Pila",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

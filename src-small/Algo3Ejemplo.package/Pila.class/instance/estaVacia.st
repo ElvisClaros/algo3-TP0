@@ -1,0 +1,3 @@
+accesing
+estaVacia
+^true.

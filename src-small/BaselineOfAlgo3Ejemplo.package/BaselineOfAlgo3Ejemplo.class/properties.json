@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfAlgo3Ejemplo",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfAlgo3Ejemplo",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
